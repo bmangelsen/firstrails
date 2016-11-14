@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  font-family: monospace;
+  text-align: center;
+  color: #0088e2;
+}
